@@ -1,0 +1,16 @@
+table.pf_search_report_history {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+}
+
+table.pf_search_report_history tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+table.pf_search_report_history td, table.pf_search_report_history th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    text-align: center;
+}
